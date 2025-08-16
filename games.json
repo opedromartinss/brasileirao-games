@@ -1,0 +1,42 @@
+[
+  {
+    "startDate": "2025-08-16T19:00Z",
+    "home": "Ceará",
+    "away": "Red Bull Bragantino",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9969.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
+    "competition": ""
+  },
+  {
+    "startDate": "2025-08-16T19:00Z",
+    "home": "Fluminense",
+    "away": "Fortaleza",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
+    "competition": ""
+  },
+  {
+    "startDate": "2025-08-16T21:30Z",
+    "home": "Sport",
+    "away": "São Paulo",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7635.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
+    "competition": ""
+  },
+  {
+    "startDate": "2025-08-16T21:30Z",
+    "home": "Vitória",
+    "away": "Juventude",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
+    "competition": ""
+  },
+  {
+    "startDate": "2025-08-17T00:00Z",
+    "home": "Corinthians",
+    "away": "Bahia",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
+    "competition": ""
+  }
+]
