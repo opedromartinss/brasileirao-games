@@ -1,0 +1,24 @@
+name: Atualizar jogos fallback
+permissions:
+  contents: write
+on:
+  schedule:
+    # Executa diariamente às 03:10 UTC (~00:10 America/Bahia)
+    - cron: '10 3 * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - run: npm install node-fetch@3
+      - run: node fetch_games_new.js
+      - run: |
+          git config user.name 'GitHub Actions'
+          git config user.email 'actions@github.com'
+          git add games.json
+          git commit -m 'Atualizar jogos do dia' || echo 'Sem alterações'
+          git push
