@@ -12,88 +12,155 @@ const leagues = [
   'fifa.cwc'                   // Mundial de Clubes da FIFA
 ];
 
-// Lista de times da Série A 2025 (nomes com e sem acentuação/abreviações)
-const serieATeams = [
-  'Atlético Mineiro','Atletico Mineiro',
-  'Bahia',
-  'Botafogo',
-  'Ceará','Ceara',
-  'Corinthians',
-  'Cruzeiro',
-  'Flamengo',
-  'Fluminense',
-  'Fortaleza',
-  'Grêmio','Gremio',
-  'Internacional',
-  'Juventude',
-  'Mirassol',
-  'Palmeiras',
-  'Red Bull Bragantino','RB Bragantino','Bragantino',
-  'Santos',
-  'São Paulo','Sao Paulo',
-  'Sport','Sport Recife',
-  'Vasco da Gama','Vasco',
-  'Vitória','Vitoria'
-];
-
 // Função para normalizar nomes (remover acentuação e deixar minúsculo)
 function normalizeName(name) {
   return name.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase();
 }
-const serieASet = new Set(serieATeams.map(n => normalizeName(n)));
+
+// Dinamicamente busca a lista de times da Série A para a temporada atual.
+async function fetchSerieATeams() {
+  try {
+    const url = 'https://sports.core.api.espn.com/v2/sports/soccer/leagues/bra.1/teams?lang=en&region=us';
+    const resp = await fetch(url);
+    const list = await resp.json();
+    const refs = list.items?.map(item => item.$ref) || [];
+    // Carrega detalhes de cada time para obter displayName ou name.
+    const teamPromises = refs.map(async (ref) => {
+      try {
+        const data = await fetch(ref).then(r => r.json());
+        return data.displayName || data.name || null;
+      } catch (e) {
+        return null;
+      }
+    });
+    const names = (await Promise.all(teamPromises)).filter(Boolean);
+    return names;
+  } catch (err) {
+    return [];
+  }
+}
 
 async function main() {
   const now = new Date();
   // Data formatada como YYYYMMDD no fuso America/Bahia
   const dateStr = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Bahia' }).format(now).replace(/-/g, '');
+  // Obtém lista dinâmica de times da Série A; se falhar, usa lista estática como fallback.
+  const dynamicTeams = await fetchSerieATeams();
+  const fallbackTeams = [
+    'Atlético Mineiro','Atletico Mineiro',
+    'Bahia',
+    'Botafogo',
+    'Ceará','Ceara',
+    'Corinthians',
+    'Cruzeiro',
+    'Flamengo',
+    'Fluminense',
+    'Fortaleza',
+    'Grêmio','Gremio',
+    'Internacional',
+    'Juventude',
+    'Mirassol',
+    'Palmeiras',
+    'Red Bull Bragantino','RB Bragantino','Bragantino',
+    'Santos',
+    'São Paulo','Sao Paulo',
+    'Sport','Sport Recife',
+    'Vasco da Gama','Vasco',
+    'Vitória','Vitoria'
+  ];
+  const serieAList = dynamicTeams.length ? dynamicTeams : fallbackTeams;
+  const serieASet = new Set(serieAList.map(n => normalizeName(n)));
   let allGames = [];
+  let futureGames = [];
+  // Quantos dias no futuro buscar quando não houver jogos hoje
+  const DAYS_AHEAD = 3;
+  // Para cada liga, buscamos jogos de hoje e próximos dias
   for (const slug of leagues) {
-    const url = `https://site.api.espn.com/apis/site/v2/sports/soccer/${slug}/scoreboard?dates=${dateStr}`;
-    try {
-      const resp = await fetch(url);
-      if (!resp.ok) {
-        console.error(`Erro ao buscar ${slug}: ${resp.statusText}`);
-        continue;
-      }
-      const data = await resp.json();
-      const events = data.events || [];
-      for (const event of events) {
-        const competitions = event.competitions || [];
-        if (competitions.length === 0) continue;
-        const comp = competitions[0];
-        const competitors = comp.competitors || [];
-        // Filtra somente partidas envolvendo ao menos um time da Série A
-        const hasSerieATeam = competitors.some(c => serieASet.has(normalizeName(c.team.displayName)));
-        if (!hasSerieATeam) continue;
-        // Identifica mandante e visitante
-        const homeComp = competitors.find(c => c.homeAway === 'home');
-        const awayComp = competitors.find(c => c.homeAway === 'away');
-        const homeName = homeComp ? homeComp.team.displayName : '';
-        const awayName = awayComp ? awayComp.team.displayName : '';
-        // Logos: usa propriedade logos array ou logo direto se existir
-        const homeLogo = homeComp && homeComp.team
-          ? (homeComp.team.logo || (homeComp.team.logos && homeComp.team.logos[0] && homeComp.team.logos[0].href) || '')
-          : '';
-        const awayLogo = awayComp && awayComp.team
-          ? (awayComp.team.logo || (awayComp.team.logos && awayComp.team.logos[0] && awayComp.team.logos[0].href) || '')
-          : '';
-        // Nome da competição: primeiro league name ou slug
-        let compName = '';
-        if (event.leagues && event.leagues.length > 0) {
-          compName = event.leagues[0].name || event.leagues[0].abbreviation || '';
+    for (let offset = 0; offset <= DAYS_AHEAD; offset++) {
+      // Calcula a data consultada
+      const dateObj = new Date(new Date().toLocaleString('en-US', { timeZone: 'America/Bahia' }));
+      dateObj.setDate(dateObj.getDate() + offset);
+      const dateStrOffset = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Bahia' }).format(dateObj).replace(/-/g, '');
+      const url = `https://site.api.espn.com/apis/site/v2/sports/soccer/${slug}/scoreboard?dates=${dateStrOffset}`;
+      try {
+        const resp = await fetch(url);
+        if (!resp.ok) {
+          console.error(`Erro ao buscar ${slug} em ${dateStrOffset}: ${resp.statusText}`);
+          continue;
         }
-        const startDate = comp.date || event.date;
-        allGames.push({
-          startDate,
-          home: homeName,
-          away: awayName,
-          homeLogo,
-          awayLogo,
-          competition: compName
-        });
+        const data = await resp.json();
+        const events = data.events || [];
+        for (const event of events) {
+          const competitions = event.competitions || [];
+          if (competitions.length === 0) continue;
+          const comp = competitions[0];
+          const competitors = comp.competitors || [];
+          // Filtra somente partidas envolvendo ao menos um time da Série A
+          const hasSerieATeam = competitors.some(c => serieASet.has(normalizeName(c.team.displayName)));
+          if (!hasSerieATeam) continue;
+          // Identifica mandante e visitante
+          const homeComp = competitors.find(c => c.homeAway === 'home');
+          const awayComp = competitors.find(c => c.homeAway === 'away');
+          const homeName = homeComp ? homeComp.team.displayName : '';
+          const awayName = awayComp ? awayComp.team.displayName : '';
+          // Logos: usa propriedade logos array ou logo direto se existir
+          const homeLogo = homeComp && homeComp.team
+            ? (homeComp.team.logo || (homeComp.team.logos && homeComp.team.logos[0] && homeComp.team.logos[0].href) || '')
+            : '';
+          const awayLogo = awayComp && awayComp.team
+            ? (awayComp.team.logo || (awayComp.team.logos && awayComp.team.logos[0] && awayComp.team.logos[0].href) || '')
+            : '';
+          // Nome da competição
+          let compName = '';
+          if (event.leagues && event.leagues.length > 0) {
+            compName = event.leagues[0].name || event.leagues[0].abbreviation || '';
+          }
+          // Canal de transmissão (broadcast)
+          let broadcast = '';
+          let broadcasts = [];
+          if (Array.isArray(comp.broadcasts) && comp.broadcasts.length > 0) {
+            broadcasts = comp.broadcasts;
+          } else if (Array.isArray(event.broadcasts) && event.broadcasts.length > 0) {
+            broadcasts = event.broadcasts;
+          }
+          if (broadcasts.length > 0) {
+            for (const b of broadcasts) {
+              let name = '';
+              if (b.media && (b.media.shortName || b.media.name)) {
+                name = b.media.shortName || b.media.name;
+              } else if (Array.isArray(b.names) && b.names.length > 0) {
+                name = b.names[0];
+              } else if (b.shortName || b.name) {
+                name = b.shortName || b.name;
+              }
+              if (typeof name === 'string' && name.trim()) {
+                broadcast = name.trim();
+                break;
+              }
+            }
+            if (broadcast.includes('/')) {
+              broadcast = broadcast.split('/')[0].trim();
+            }
+          }
+          const startDate = comp.date || event.date;
+          const matchObj = {
+            startDate,
+            home: homeName,
+            away: awayName,
+            homeLogo,
+            awayLogo,
+            competition: compName,
+            broadcast
+          };
+          if (offset === 0) {
+            allGames.push(matchObj);
+          } else {
+            futureGames.push(matchObj);
+          }
+        }
+      } catch (err) {
+        console.error(`Erro ao obter dados de ${slug} em ${dateStrOffset}:`, err.message);
       }
-    } catch (err) {
-      console.error(`Erro ao obter dados de ${slug}:`, err.message);
     }
   }
   // Caso nenhuma partida seja obtida via ESPN, tenta fallback usando Sofascore apenas para Série A
@@ -120,7 +187,8 @@ async function main() {
             away: awayName,
             homeLogo: '',
             awayLogo: '',
-            competition: 'Brasileirão Série A'
+            competition: 'Brasileirão Série A',
+            broadcast: '' // Sofascore não fornece informações de transmissão
           });
         });
         console.log(`Fallback Sofascore adicionou ${allGames.length} partidas.`);
@@ -131,12 +199,13 @@ async function main() {
       console.error('Erro ao consultar Sofascore:', err.message);
     }
   }
-  // Escreve o arquivo JSON com lista de partidas
-  fs.writeFileSync('games.json', JSON.stringify(allGames, null, 2), 'utf8');
-  console.log(`Gerado games.json com ${allGames.length} partidas.`);
+  // Gera saída com jogos de hoje e futuros
+  const output = { today: allGames, future: futureGames };
+  fs.writeFileSync('games.json', JSON.stringify(output, null, 2), 'utf8');
+  console.log(`Gerado games.json com ${allGames.length} partidas hoje e ${futureGames.length} futuras.`);
 }
 
 main().catch(err => {
   console.error('Falha ao gerar games.json:', err);
   process.exit(1);
-});
+})
