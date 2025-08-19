@@ -1,26 +1,6 @@
 {
   "today": [
     {
-      "startDate": "2025-08-18T23:00Z",
-      "home": "Mirassol",
-      "away": "Cruzeiro",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
-  "future": [
-    {
-      "startDate": "2025-08-20T22:00Z",
-      "home": "Juventude",
-      "away": "Vasco da Gama",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
       "startDate": "2025-08-19T22:00Z",
       "home": "Vélez Sarsfield",
       "away": "Fortaleza",
@@ -31,10 +11,48 @@
     },
     {
       "startDate": "2025-08-20T00:30Z",
+      "home": "Racing Club",
+      "away": "Peñarol",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/15.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2683.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2025-08-20T00:30Z",
       "home": "São Paulo",
       "away": "Atlético Nacional",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5264.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2025-08-20T00:30Z",
+      "home": "Fluminense",
+      "away": "América de Cali",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8109.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2025-08-19T19:00Z",
+      "home": "Real Madrid",
+      "away": "Osasuna",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+      "competition": "",
+      "broadcast": "ESPN Deportes"
+    }
+  ],
+  "future": [
+    {
+      "startDate": "2025-08-20T22:00Z",
+      "home": "Juventude",
+      "away": "Vasco da Gama",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
       "competition": "",
       "broadcast": ""
     },
@@ -66,11 +84,11 @@
       "broadcast": ""
     },
     {
-      "startDate": "2025-08-20T00:30Z",
-      "home": "Fluminense",
-      "away": "América de Cali",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8109.png",
+      "startDate": "2025-08-22T00:30Z",
+      "home": "River Plate",
+      "away": "Libertad",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2670.png",
       "competition": "",
       "broadcast": ""
     },
@@ -80,6 +98,33 @@
       "away": "Atlético-MG",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6756.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2025-08-22T19:00Z",
+      "home": "West Ham United",
+      "away": "Chelsea",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+      "competition": "",
+      "broadcast": "USA Net"
+    },
+    {
+      "startDate": "2025-08-22T18:30Z",
+      "home": "Bayern Munich",
+      "away": "RB Leipzig",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+      "competition": "",
+      "broadcast": "ESPN2"
+    },
+    {
+      "startDate": "2025-08-22T18:45Z",
+      "home": "Paris Saint-Germain",
+      "away": "Angers",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
       "competition": "",
       "broadcast": ""
     }
