@@ -2,20 +2,50 @@ const fs = require('fs');
 // Utilize node-fetch dinamicamente para compatibilidade com CommonJS
 const fetch = (...args) => import('node-fetch').then(({ default: fetchFn }) => fetchFn(...args));
 
-// Ligas a serem consultadas: Brasileirão Série A e competições relevantes
+// Ligas a serem consultadas: Brasileirão Série A, competições relevantes
+// e algumas das principais ligas mundiais para clubes populares
 const leagues = [
   'bra.1',                     // Campeonato Brasileiro Série A
   'bra.copa_do_brazil',        // Copa do Brasil
   'conmebol.libertadores',     // CONMEBOL Libertadores
   'conmebol.sudamericana',     // CONMEBOL Sudamericana
   'conmebol.recopa',           // Recopa Sul-Americana
-  'fifa.cwc'                   // Mundial de Clubes da FIFA
+  'fifa.cwc',                  // Mundial de Clubes da FIFA
+  // Ligas europeias populares
+  'esp.1',                     // La Liga (Espanha)
+  'eng.1',                     // Premier League (Inglaterra)
+  'ita.1',                     // Serie A (Itália)
+  'ger.1',                     // Bundesliga (Alemanha)
+  'fra.1',                     // Ligue 1 (França)
+  // Competições continentais europeias
+  'uefa.champions',            // UEFA Champions League
+  'uefa.europa'               // UEFA Europa League
 ];
 
 // Função para normalizar nomes (remover acentuação e deixar minúsculo)
 function normalizeName(name) {
   return name.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase();
 }
+
+// Lista de clubes populares mundialmente para exibir suas partidas independentemente da liga
+const popularTeams = [
+  // Inglaterra / Premier League
+  'Manchester United', 'Manchester City', 'Liverpool', 'Arsenal', 'Chelsea', 'Tottenham',
+  // Espanha / La Liga
+  'Real Madrid', 'Barcelona', 'Atlético Madrid', 'Sevilla', 'Valencia',
+  // Alemanha / Bundesliga
+  'Bayern München', 'Borussia Dortmund', 'RB Leipzig', 'Bayer Leverkusen',
+  // Itália / Serie A
+  'Juventus', 'Inter', 'AC Milan', 'Roma', 'Napoli',
+  // França / Ligue 1
+  'Paris Saint-Germain', 'Marseille', 'Lyon',
+  // Portugal / Primeira Liga (para efeitos de Champions/Europa)
+  'Benfica', 'Porto', 'Sporting CP',
+  // Holanda / Eredivisie
+  'Ajax', 'PSV',
+  // Outras equipes sul-americanas populares
+  'Boca Juniors', 'River Plate', 'Nacional', 'Peñarol'
+];
 
 // Dinamicamente busca a lista de times da Série A para a temporada atual.
 async function fetchSerieATeams() {
@@ -70,6 +100,7 @@ async function main() {
   ];
   const serieAList = dynamicTeams.length ? dynamicTeams : fallbackTeams;
   const serieASet = new Set(serieAList.map(n => normalizeName(n)));
+  const popularSet = new Set(popularTeams.map(n => normalizeName(n)));
   let allGames = [];
   let futureGames = [];
   // Quantos dias no futuro buscar quando não houver jogos hoje
@@ -95,9 +126,10 @@ async function main() {
           if (competitions.length === 0) continue;
           const comp = competitions[0];
           const competitors = comp.competitors || [];
-          // Filtra somente partidas envolvendo ao menos um time da Série A
+          // Filtra partidas envolvendo ao menos um time da Série A ou um time popular
           const hasSerieATeam = competitors.some(c => serieASet.has(normalizeName(c.team.displayName)));
-          if (!hasSerieATeam) continue;
+          const hasPopularTeam = competitors.some(c => popularSet.has(normalizeName(c.team.displayName)));
+          if (!hasSerieATeam && !hasPopularTeam) continue;
           // Identifica mandante e visitante
           const homeComp = competitors.find(c => c.homeAway === 'home');
           const awayComp = competitors.find(c => c.homeAway === 'away');
@@ -208,4 +240,4 @@ async function main() {
 main().catch(err => {
   console.error('Falha ao gerar games.json:', err);
   process.exit(1);
-})
+});
