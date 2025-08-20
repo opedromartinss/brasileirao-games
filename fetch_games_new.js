@@ -23,6 +23,9 @@ const leagues = [
   'eng.1',                     // Premier League (Inglaterra)
   'ita.1',                     // Serie A (Itália)
   'ger.1',                     // Bundesliga (Alemanha)
+    'fifa.friendly',       // Amistosos de seleções
+  'fifa.friendly.w',     // Amistosos de seleções femininas
+  
   'fra.1',                     // Ligue 1 (França)
   // Competições continentais europeias
   'uefa.champions',            // UEFA Champions League
@@ -51,7 +54,11 @@ const popularTeams = [
   // Holanda / Eredivisie
   'Ajax', 'PSV',
   // Outras equipes sul-americanas populares
-  'Boca Juniors', 'River Plate', 'Nacional', 'Peñarol'
+  'Boca Juniors', 'River Plate', 'Nacional', 'Peñarol',
+  // Seleções nacionais populares (masculinas e femininas)
+  'Brazil','Argentina','France','Germany','Spain','England','Italy','Portugal','Netherlands','Uruguay',
+  'Brazil W','Argentina W','France W','Germany W','Spain W','England W','Italy W','Portugal W','Netherlands W','Uruguay W'
+
 ];
 
 // Dinamicamente busca a lista de times da Série A para a temporada atual.
