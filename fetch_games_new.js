@@ -10,13 +10,14 @@ const leagues = [
   'conmebol.libertadores',     // CONMEBOL Libertadores
   'conmebol.sudamericana',     // CONMEBOL Sudamericana
   
-    '
-    'conmebol.recopa',        // Recopa Sul-Americanabra.camp.carioca',          // Campeonato Carioca (Rio de Janeiro)
-  'bra.camp.paulista',         // Campeonato Paulista (S\u00e3o Paulo)
-  'bra.camp.gaucho',           // Campeonato Ga\u00facho (Rio Grande do Sul)
-  'bra.camp.mineiro',          // Campeonato Mineiro (Minas Gerais)
-  'bra.copa_do_nordeste',      // Copa do Nordeste'conmebol.recopa',           // Recopa Sul-Americana
-  'fifa.cwc',                  // Mundial de Clubes da FIFA
+    
+'conmebol.recopa',        // Recopa Sul-Americana
+'bra.camp.carioca',       // Campeonato Carioca (Rio de Janeiro)
+'bra.camp.paulista',      // Campeonato Paulista (S\u00e3o Paulo)
+'bra.camp.gaucho',        // Campeonato Ga\u00facho (Rio Grande do Sul)
+'bra.camp.mineiro',       // Campeonato Mineiro (Minas Gerais)
+'bra.copa_do_nordeste',   // Copa do Nordeste
+'fifa.cwc',               // Mundial de Clubes da FIFA// Mundial de Clubes da FIFA
   // Ligas europeias populares
   'esp.1',                     // La Liga (Espanha)
   'eng.1',                     // Premier League (Inglaterra)
