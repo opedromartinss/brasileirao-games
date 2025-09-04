@@ -25,6 +25,21 @@ const leagues = [
   'ger.1',                     // Bundesliga (Alemanha)
     'fifa.friendly',       // Amistosos de seleções
   'fifa.friendly.w',     // Amistosos de seleções femininas
+
+    'conmebol.copa_america',    // Copa América
+  'conmebol.copa_america.w',  // Copa América Feminina
+  'uefa.euro',                // Eurocopa
+  'uefa.euro.w',              // Eurocopa Feminina
+  'uefa.nations',             // Nations League
+  'conmebol.worldcup_qualifiers', // Eliminatórias CONMEBOL
+  'concacaf.worldcup_qualifiers', // Eliminatórias CONCACAF
+  'uefa.worldcup_qualifiers',     // Eliminatórias UEFA
+  'caf.worldcup_qualifiers',      // Eliminatórias CAF (África)
+  'afc.worldcup_qualifiers',      // Eliminatórias AFC (Ásia)
+  'ofc.worldcup_qualifiers',      // Eliminatórias OFC (Oceania)
+  'fifa.worldcup',                // Copa do Mundo
+  'fifa.worldcup.w',              // Copa do Mundo Feminina
+
   
   'fra.1',                     // Ligue 1 (França)
   // Competições continentais europeias
@@ -117,8 +132,8 @@ async function main() {
   const popularSet = new Set(popularTeams.map(n => normalizeName(n)));
   let allGames = [];
   let futureGames = [];
-  // Quantos dias no futuro buscar quando não houver jogos hoje
-  const DAYS_AHEAD = 3;
+  // Quantos dias no fu7uro buscar quando não houver jogos hoje
+  const DAYS_AHEAD7 = 7;
   // Para cada liga, buscamos jogos de hoje e próximos dias
   for (const slug of leagues) {
     for (let offset = 0; offset <= DAYS_AHEAD; offset++) {
