@@ -133,7 +133,12 @@ async function main() {
   let allGames = [];
   let futureGames = [];
   // Quantos dias no fu7uro buscar quando não houver jogos hoje
-  const DAYS_AHEAD7 = 7;
+  const DAYS_AHEAD = 7;
+  
+  
+  
+  
+  
   // Para cada liga, buscamos jogos de hoje e próximos dias
   for (const slug of leagues) {
     for (let offset = 0; offset <= DAYS_AHEAD; offset++) {
