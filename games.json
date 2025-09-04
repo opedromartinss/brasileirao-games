@@ -1,12 +1,22 @@
 {
-  "today": [],
-  "future": [
+  "today": [
     {
       "startDate": "2025-09-04T00:30Z",
       "home": "Confiança",
       "away": "Bahia",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4875.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
+      "competition": "",
+      "broadcast": ""
+    }
+  ],
+  "future": [
+    {
+      "startDate": "2025-09-06T20:30Z",
+      "home": "Bahia",
+      "away": "Confiança",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4875.png",
       "competition": "",
       "broadcast": ""
     }
