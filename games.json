@@ -45,6 +45,33 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4875.png",
       "competition": "",
       "broadcast": ""
+    },
+    {
+      "startDate": "2025-09-12T19:00Z",
+      "home": "Sevilla",
+      "away": "Elche",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+      "competition": "",
+      "broadcast": "ESPN+"
+    },
+    {
+      "startDate": "2025-09-12T18:30Z",
+      "home": "Bayer Leverkusen",
+      "away": "Eintracht Frankfurt",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+      "competition": "",
+      "broadcast": "ESPN2"
+    },
+    {
+      "startDate": "2025-09-12T18:45Z",
+      "home": "Marseille",
+      "away": "Lorient",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+      "competition": "",
+      "broadcast": ""
     }
   ]
 }
