@@ -1,107 +1,6 @@
 {
   "today": [
     {
-      "startDate": "2025-09-14T14:00Z",
-      "home": "Red Bull Bragantino",
-      "away": "Sport",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7635.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2025-09-14T19:00Z",
-      "home": "Atlético-MG",
-      "away": "Santos",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2025-09-14T19:00Z",
-      "home": "Juventude",
-      "away": "Flamengo",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2025-09-14T20:30Z",
-      "home": "São Paulo",
-      "away": "Botafogo",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2025-09-14T23:30Z",
-      "home": "Vasco da Gama",
-      "away": "Ceará",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9969.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2025-09-14T19:00Z",
-      "home": "Barcelona",
-      "away": "Valencia",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-      "competition": "",
-      "broadcast": "ESPN"
-    },
-    {
-      "startDate": "2025-09-14T13:00Z",
-      "home": "Burnley",
-      "away": "Liverpool",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "competition": "",
-      "broadcast": "USA Net"
-    },
-    {
-      "startDate": "2025-09-14T15:30Z",
-      "home": "Manchester City",
-      "away": "Manchester United",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "competition": "",
-      "broadcast": "Peacock"
-    },
-    {
-      "startDate": "2025-09-14T18:45Z",
-      "home": "AC Milan",
-      "away": "Bologna",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-      "competition": "",
-      "broadcast": "Paramount+"
-    },
-    {
-      "startDate": "2025-09-14T15:15Z",
-      "home": "Paris Saint-Germain",
-      "away": "Lens",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2025-09-14T18:45Z",
-      "home": "Stade Rennais",
-      "away": "Lyon",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
-  "future": [
-    {
       "startDate": "2025-09-15T23:00Z",
       "home": "Bahia",
       "away": "Cruzeiro",
@@ -109,7 +8,9 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
       "competition": "",
       "broadcast": ""
-    },
+    }
+  ],
+  "future": [
     {
       "startDate": "2025-09-17T22:30Z",
       "home": "Botafogo",
@@ -345,6 +246,15 @@
       "broadcast": "Paramount+"
     },
     {
+      "startDate": "2025-09-22T18:45Z",
+      "home": "Napoli",
+      "away": "Pisa",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3956.png",
+      "competition": "",
+      "broadcast": "Paramount+"
+    },
+    {
       "startDate": "2025-09-20T16:30Z",
       "home": "RB Leipzig",
       "away": "FC Cologne",
@@ -405,7 +315,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10414.png",
       "competition": "",
-      "broadcast": "Paramount+"
+      "broadcast": "CBSSN"
     },
     {
       "startDate": "2025-09-16T19:00Z",
@@ -459,7 +369,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/909.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
       "competition": "",
-      "broadcast": "Paramount+"
+      "broadcast": "CBSSN"
     },
     {
       "startDate": "2025-09-18T19:00Z",
