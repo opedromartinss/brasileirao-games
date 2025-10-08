@@ -81,6 +81,15 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
       "competition": "",
       "broadcast": ""
+    },
+    {
+      "startDate": "2025-10-14T10:30Z",
+      "home": "Japan",
+      "away": "Brazil",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+      "competition": "",
+      "broadcast": ""
     }
   ]
 }
