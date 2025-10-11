@@ -1,11 +1,29 @@
 {
   "today": [
     {
-      "startDate": "2025-10-09T18:45Z",
-      "home": "England",
-      "away": "Wales",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png",
+      "startDate": "2025-10-10T11:00Z",
+      "home": "South Korea",
+      "away": "Brazil",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2025-10-10T12:45Z",
+      "home": "Uruguay",
+      "away": "Dominican Republic",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/dom.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2025-10-11T00:00Z",
+      "home": "Argentina",
+      "away": "Venezuela",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ven.png",
       "competition": "",
       "broadcast": ""
     }
@@ -111,33 +129,6 @@
       "broadcast": ""
     },
     {
-      "startDate": "2025-10-10T11:00Z",
-      "home": "South Korea",
-      "away": "Brazil",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2025-10-10T12:45Z",
-      "home": "Uruguay",
-      "away": "Dominican Republic",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/dom.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2025-10-11T00:00Z",
-      "home": "Argentina",
-      "away": "Venezuela",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ven.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
       "startDate": "2025-10-13T12:45Z",
       "home": "Uzbekistan",
       "away": "Uruguay",
@@ -161,6 +152,15 @@
       "away": "Brazil",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2025-10-17T18:45Z",
+      "home": "Paris Saint-Germain",
+      "away": "Strasbourg",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
       "competition": "",
       "broadcast": ""
     }
