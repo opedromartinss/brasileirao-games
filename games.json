@@ -1,56 +1,29 @@
 {
   "today": [
     {
-      "startDate": "2025-10-22T22:00Z",
-      "home": "Bahia",
-      "away": "Internacional",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
+      "startDate": "2025-10-24T00:30Z",
+      "home": "Liga de Quito",
+      "away": "Palmeiras",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4816.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
       "competition": "",
       "broadcast": ""
     },
     {
-      "startDate": "2025-10-23T00:30Z",
-      "home": "Flamengo",
-      "away": "Racing Club",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/15.png",
+      "startDate": "2025-10-23T23:00Z",
+      "home": "United States",
+      "away": "Portugal",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "TNT"
     },
     {
-      "startDate": "2025-10-22T19:00Z",
-      "home": "Chelsea",
-      "away": "Ajax Amsterdam",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
-      "competition": "",
-      "broadcast": "Paramount+"
-    },
-    {
-      "startDate": "2025-10-22T19:00Z",
-      "home": "Eintracht Frankfurt",
-      "away": "Liverpool",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "competition": "",
-      "broadcast": "Paramount+"
-    },
-    {
-      "startDate": "2025-10-22T19:00Z",
-      "home": "Real Madrid",
-      "away": "Juventus",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-      "competition": "",
-      "broadcast": "Paramount+"
-    },
-    {
-      "startDate": "2025-10-22T19:00Z",
-      "home": "Sporting CP",
-      "away": "Marseille",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "startDate": "2025-10-23T16:45Z",
+      "home": "Lyon",
+      "away": "FC Basel",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/989.png",
       "competition": "",
       "broadcast": "Paramount+"
     }
@@ -156,20 +129,20 @@
       "broadcast": ""
     },
     {
-      "startDate": "2025-10-24T00:30Z",
-      "home": "Liga de Quito",
-      "away": "Palmeiras",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4816.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
       "startDate": "2025-10-30T00:30Z",
       "home": "Racing Club",
       "away": "Flamengo",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/15.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2025-10-31T00:30Z",
+      "home": "Palmeiras",
+      "away": "Liga de Quito",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4816.png",
       "competition": "",
       "broadcast": ""
     },
@@ -225,7 +198,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "Peacock"
     },
     {
       "startDate": "2025-10-25T16:30Z",
@@ -234,7 +207,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "NBC"
     },
     {
       "startDate": "2025-10-25T19:00Z",
@@ -243,7 +216,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "USA Net"
     },
     {
       "startDate": "2025-10-26T14:00Z",
@@ -252,7 +225,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "Peacock"
     },
     {
       "startDate": "2025-10-26T14:00Z",
@@ -261,7 +234,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "USA Net"
     },
     {
       "startDate": "2025-10-24T18:45Z",
@@ -343,15 +316,6 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
       "competition": "",
       "broadcast": "ESPN+"
-    },
-    {
-      "startDate": "2025-10-23T23:00Z",
-      "home": "United States",
-      "away": "Portugal",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-      "competition": "",
-      "broadcast": "TNT"
     },
     {
       "startDate": "2025-10-24T16:00Z",
@@ -469,15 +433,6 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
       "competition": "",
       "broadcast": ""
-    },
-    {
-      "startDate": "2025-10-23T16:45Z",
-      "home": "Lyon",
-      "away": "FC Basel",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/989.png",
-      "competition": "",
-      "broadcast": "Paramount+"
     }
   ]
 }
