@@ -1,31 +1,40 @@
 {
   "today": [
     {
-      "startDate": "2025-10-24T00:30Z",
-      "home": "Liga de Quito",
-      "away": "Palmeiras",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4816.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
+      "startDate": "2025-10-24T19:00Z",
+      "home": "Real Sociedad",
+      "away": "Sevilla",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+      "competition": "",
+      "broadcast": "ESPN Deportes"
+    },
+    {
+      "startDate": "2025-10-24T18:45Z",
+      "home": "AC Milan",
+      "away": "Pisa",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3956.png",
+      "competition": "",
+      "broadcast": "Paramount+"
+    },
+    {
+      "startDate": "2025-10-24T16:00Z",
+      "home": "Poland",
+      "away": "Netherlands",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
       "competition": "",
       "broadcast": ""
     },
     {
-      "startDate": "2025-10-23T23:00Z",
-      "home": "United States",
-      "away": "Portugal",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+      "startDate": "2025-10-24T16:15Z",
+      "home": "Italy",
+      "away": "Japan",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
       "competition": "",
-      "broadcast": "TNT"
-    },
-    {
-      "startDate": "2025-10-23T16:45Z",
-      "home": "Lyon",
-      "away": "FC Basel",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/989.png",
-      "competition": "",
-      "broadcast": "Paramount+"
+      "broadcast": ""
     }
   ],
   "future": [
@@ -156,15 +165,6 @@
       "broadcast": ""
     },
     {
-      "startDate": "2025-10-24T19:00Z",
-      "home": "Real Sociedad",
-      "away": "Sevilla",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-      "competition": "",
-      "broadcast": "ESPN Deportes"
-    },
-    {
       "startDate": "2025-10-25T19:00Z",
       "home": "Valencia",
       "away": "Villarreal",
@@ -235,15 +235,6 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
       "competition": "",
       "broadcast": "USA Net"
-    },
-    {
-      "startDate": "2025-10-24T18:45Z",
-      "home": "AC Milan",
-      "away": "Pisa",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3956.png",
-      "competition": "",
-      "broadcast": "Paramount+"
     },
     {
       "startDate": "2025-10-25T16:00Z",
@@ -318,22 +309,13 @@
       "broadcast": "ESPN+"
     },
     {
-      "startDate": "2025-10-24T16:00Z",
-      "home": "Poland",
-      "away": "Netherlands",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "startDate": "2025-10-31T19:30Z",
+      "home": "FC Augsburg",
+      "away": "Borussia Dortmund",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
       "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2025-10-24T16:15Z",
-      "home": "Italy",
-      "away": "Japan",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
-      "competition": "",
-      "broadcast": ""
+      "broadcast": "ESPN+"
     },
     {
       "startDate": "2025-10-25T16:30Z",
