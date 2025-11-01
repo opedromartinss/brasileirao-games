@@ -1,13 +1,13 @@
 {
   "today": [
     {
-      "startDate": "2025-10-31T00:30Z",
-      "home": "Palmeiras",
-      "away": "Liga de Quito",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4816.png",
+      "startDate": "2025-10-31T19:30Z",
+      "home": "FC Augsburg",
+      "away": "Borussia Dortmund",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "ESPN+"
     }
   ],
   "future": [
@@ -289,15 +289,6 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
       "competition": "",
       "broadcast": "Paramount+"
-    },
-    {
-      "startDate": "2025-10-31T19:30Z",
-      "home": "FC Augsburg",
-      "away": "Borussia Dortmund",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-      "competition": "",
-      "broadcast": "ESPN+"
     },
     {
       "startDate": "2025-11-01T14:30Z",
