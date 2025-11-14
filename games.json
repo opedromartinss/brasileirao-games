@@ -1,15 +1,5 @@
 {
-  "today": [
-    {
-      "startDate": "2025-11-12T23:30Z",
-      "home": "Atlético-MG",
-      "away": "Fortaleza",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
+  "today": [],
   "future": [
     {
       "startDate": "2025-11-15T21:30Z",
@@ -98,6 +88,42 @@
       "away": "Mirassol",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2025-11-20T19:00Z",
+      "home": "Juventude",
+      "away": "Cruzeiro",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2025-11-20T21:00Z",
+      "home": "Bahia",
+      "away": "Fortaleza",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2025-11-20T22:30Z",
+      "home": "Corinthians",
+      "away": "São Paulo",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2025-11-21T00:30Z",
+      "home": "Ceará",
+      "away": "Internacional",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9969.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
       "competition": "",
       "broadcast": ""
     },
