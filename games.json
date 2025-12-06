@@ -1,22 +1,13 @@
 {
   "today": [
     {
-      "startDate": "2025-12-04T22:30Z",
-      "home": "Cruzeiro",
-      "away": "Botafogo",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
+      "startDate": "2025-12-05T20:00Z",
+      "home": "Lille",
+      "away": "Marseille",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
       "competition": "",
       "broadcast": ""
-    },
-    {
-      "startDate": "2025-12-04T20:00Z",
-      "home": "Manchester United",
-      "away": "West Ham United",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
-      "competition": "",
-      "broadcast": "USA Net"
     }
   ],
   "future": [
@@ -180,7 +171,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "competition": "",
-      "broadcast": "NBC"
+      "broadcast": "NBCSN"
     },
     {
       "startDate": "2025-12-06T15:00Z",
@@ -255,13 +246,13 @@
       "broadcast": "ESPN+"
     },
     {
-      "startDate": "2025-12-05T20:00Z",
-      "home": "Lille",
-      "away": "Marseille",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "startDate": "2025-12-12T19:30Z",
+      "home": "1. FC Union Berlin",
+      "away": "RB Leipzig",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "ESPN+"
     },
     {
       "startDate": "2025-12-06T20:05Z",
