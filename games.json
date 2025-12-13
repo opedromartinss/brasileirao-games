@@ -1,22 +1,13 @@
 {
   "today": [
     {
-      "startDate": "2025-12-11T23:00Z",
-      "home": "Vasco da Gama",
-      "away": "Fluminense",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
+      "startDate": "2025-12-12T19:30Z",
+      "home": "1. FC Union Berlin",
+      "away": "RB Leipzig",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
       "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2025-12-11T20:00Z",
-      "home": "Lyon",
-      "away": "Go Ahead Eagles",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png",
-      "competition": "",
-      "broadcast": "Paramount+"
+      "broadcast": "ESPN+"
     }
   ],
   "future": [
@@ -71,6 +62,15 @@
       "away": "Real Madrid",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "competition": "",
+      "broadcast": "ESPN Deportes"
+    },
+    {
+      "startDate": "2025-12-19T20:00Z",
+      "home": "Valencia",
+      "away": "Mallorca",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
       "competition": "",
       "broadcast": "ESPN Deportes"
     },
@@ -147,15 +147,6 @@
       "broadcast": "Paramount+"
     },
     {
-      "startDate": "2025-12-12T19:30Z",
-      "home": "1. FC Union Berlin",
-      "away": "RB Leipzig",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-      "competition": "",
-      "broadcast": "ESPN+"
-    },
-    {
       "startDate": "2025-12-13T17:30Z",
       "home": "Bayer Leverkusen",
       "away": "FC Cologne",
@@ -170,6 +161,15 @@
       "away": "Borussia Dortmund",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+      "competition": "",
+      "broadcast": "ESPN+"
+    },
+    {
+      "startDate": "2025-12-19T19:30Z",
+      "home": "Borussia Dortmund",
+      "away": "Borussia Mönchengladbach",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
       "competition": "",
       "broadcast": "ESPN+"
     },
