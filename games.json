@@ -1,15 +1,5 @@
 {
-  "today": [
-    {
-      "startDate": "2025-12-15T20:00Z",
-      "home": "Manchester United",
-      "away": "AFC Bournemouth",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-      "competition": "",
-      "broadcast": "USA Net"
-    }
-  ],
+  "today": [],
   "future": [
     {
       "startDate": "2025-12-18T00:30Z",
@@ -72,7 +62,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "USA Net"
     },
     {
       "startDate": "2025-12-20T15:00Z",
@@ -81,7 +71,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "USA Net"
     },
     {
       "startDate": "2025-12-20T17:30Z",
@@ -90,7 +80,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "NBC"
     },
     {
       "startDate": "2025-12-20T20:00Z",
@@ -99,7 +89,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "NBC"
     },
     {
       "startDate": "2025-12-21T16:30Z",
@@ -108,7 +98,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "NBC"
     },
     {
       "startDate": "2025-12-20T19:45Z",
