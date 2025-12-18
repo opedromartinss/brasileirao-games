@@ -1,6 +1,5 @@
 {
-  "today": [],
-  "future": [
+  "today": [
     {
       "startDate": "2025-12-18T00:30Z",
       "home": "Corinthians",
@@ -9,9 +8,11 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
       "competition": "",
       "broadcast": ""
-    },
+    }
+  ],
+  "future": [
     {
-      "startDate": "2025-12-21T21:30Z",
+      "startDate": "2025-12-21T21:00Z",
       "home": "Vasco da Gama",
       "away": "Corinthians",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
