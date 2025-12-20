@@ -1,5 +1,24 @@
 {
-  "today": [],
+  "today": [
+    {
+      "startDate": "2025-12-19T20:00Z",
+      "home": "Valencia",
+      "away": "Mallorca",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
+      "competition": "",
+      "broadcast": "ESPN Deportes"
+    },
+    {
+      "startDate": "2025-12-19T19:30Z",
+      "home": "Borussia Dortmund",
+      "away": "Borussia Mönchengladbach",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+      "competition": "",
+      "broadcast": "ESPN+"
+    }
+  ],
   "future": [
     {
       "startDate": "2025-12-21T21:00Z",
@@ -9,15 +28,6 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
       "competition": "",
       "broadcast": ""
-    },
-    {
-      "startDate": "2025-12-19T20:00Z",
-      "home": "Valencia",
-      "away": "Mallorca",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
-      "competition": "",
-      "broadcast": "ESPN Deportes"
     },
     {
       "startDate": "2025-12-20T20:00Z",
@@ -92,6 +102,15 @@
       "broadcast": "NBC"
     },
     {
+      "startDate": "2025-12-26T20:00Z",
+      "home": "Manchester United",
+      "away": "Newcastle United",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
       "startDate": "2025-12-20T19:45Z",
       "home": "Juventus",
       "away": "AS Roma",
@@ -99,15 +118,6 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
       "competition": "",
       "broadcast": "Paramount+"
-    },
-    {
-      "startDate": "2025-12-19T19:30Z",
-      "home": "Borussia Dortmund",
-      "away": "Borussia Mönchengladbach",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-      "competition": "",
-      "broadcast": "ESPN+"
     },
     {
       "startDate": "2025-12-20T17:30Z",
