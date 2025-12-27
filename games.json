@@ -1,6 +1,5 @@
 {
-  "today": [],
-  "future": [
+  "today": [
     {
       "startDate": "2025-12-26T20:00Z",
       "home": "Manchester United",
@@ -9,7 +8,9 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
       "competition": "",
       "broadcast": "USA Net"
-    },
+    }
+  ],
+  "future": [
     {
       "startDate": "2025-12-27T12:30Z",
       "home": "Nottingham Forest",
@@ -115,6 +116,15 @@
       "away": "Napoli",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4050.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+      "competition": "",
+      "broadcast": "Paramount+"
+    },
+    {
+      "startDate": "2026-01-02T19:45Z",
+      "home": "Cagliari",
+      "away": "AC Milan",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
       "competition": "",
       "broadcast": "Paramount+"
     }
