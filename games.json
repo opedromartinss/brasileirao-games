@@ -1,24 +1,5 @@
 {
-  "today": [
-    {
-      "startDate": "2025-12-28T11:30Z",
-      "home": "AC Milan",
-      "away": "Hellas Verona",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
-      "competition": "",
-      "broadcast": "Paramount+"
-    },
-    {
-      "startDate": "2025-12-28T14:00Z",
-      "home": "Cremonese",
-      "away": "Napoli",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4050.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-      "competition": "",
-      "broadcast": "Paramount+"
-    }
-  ],
+  "today": [],
   "future": [
     {
       "startDate": "2026-01-03T13:00Z",
@@ -99,7 +80,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "USA Net"
     },
     {
       "startDate": "2026-01-01T20:00Z",
@@ -108,7 +89,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "USA Net"
     },
     {
       "startDate": "2026-01-03T17:30Z",
