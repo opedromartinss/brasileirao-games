@@ -1,5 +1,33 @@
 {
-  "today": [],
+  "today": [
+    {
+      "startDate": "2025-12-30T19:30Z",
+      "home": "Chelsea",
+      "away": "AFC Bournemouth",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+      "competition": "",
+      "broadcast": "USA Net"
+    },
+    {
+      "startDate": "2025-12-30T20:15Z",
+      "home": "Arsenal",
+      "away": "Aston Villa",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+      "competition": "",
+      "broadcast": "Peacock"
+    },
+    {
+      "startDate": "2025-12-30T20:15Z",
+      "home": "Manchester United",
+      "away": "Wolverhampton Wanderers",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+      "competition": "",
+      "broadcast": "Peacock"
+    }
+  ],
   "future": [
     {
       "startDate": "2026-01-03T13:00Z",
@@ -45,33 +73,6 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
       "competition": "",
       "broadcast": "ESPN Deportes"
-    },
-    {
-      "startDate": "2025-12-30T19:30Z",
-      "home": "Chelsea",
-      "away": "AFC Bournemouth",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-      "competition": "",
-      "broadcast": "USA Net"
-    },
-    {
-      "startDate": "2025-12-30T20:15Z",
-      "home": "Arsenal",
-      "away": "Aston Villa",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-      "competition": "",
-      "broadcast": "Peacock"
-    },
-    {
-      "startDate": "2025-12-30T20:15Z",
-      "home": "Manchester United",
-      "away": "Wolverhampton Wanderers",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "competition": "",
-      "broadcast": "Peacock"
     },
     {
       "startDate": "2026-01-01T17:30Z",
@@ -151,6 +152,15 @@
       "away": "Napoli",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+      "competition": "",
+      "broadcast": "CBSSN"
+    },
+    {
+      "startDate": "2026-01-06T19:45Z",
+      "home": "Sassuolo",
+      "away": "Juventus",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
       "competition": "",
       "broadcast": "Paramount+"
     },
