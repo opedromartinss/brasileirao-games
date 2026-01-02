@@ -1,5 +1,24 @@
 {
-  "today": [],
+  "today": [
+    {
+      "startDate": "2026-01-01T17:30Z",
+      "home": "Liverpool",
+      "away": "Leeds United",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+      "competition": "",
+      "broadcast": "USA Net"
+    },
+    {
+      "startDate": "2026-01-01T20:00Z",
+      "home": "Sunderland",
+      "away": "Manchester City",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+      "competition": "",
+      "broadcast": "USA Net"
+    }
+  ],
   "future": [
     {
       "startDate": "2026-01-03T13:00Z",
@@ -45,24 +64,6 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
       "competition": "",
       "broadcast": "ESPN Deportes"
-    },
-    {
-      "startDate": "2026-01-01T17:30Z",
-      "home": "Liverpool",
-      "away": "Leeds United",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-      "competition": "",
-      "broadcast": "USA Net"
-    },
-    {
-      "startDate": "2026-01-01T20:00Z",
-      "home": "Sunderland",
-      "away": "Manchester City",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "competition": "",
-      "broadcast": "USA Net"
     },
     {
       "startDate": "2026-01-03T17:30Z",
@@ -128,11 +129,20 @@
       "broadcast": ""
     },
     {
+      "startDate": "2026-01-08T20:00Z",
+      "home": "Arsenal",
+      "away": "Liverpool",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
       "startDate": "2026-01-02T19:45Z",
       "home": "Cagliari",
       "away": "AC Milan",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+      "awayLogo": "",
       "competition": "",
       "broadcast": "Paramount+"
     },
@@ -169,6 +179,15 @@
       "away": "Hellas Verona",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
+      "competition": "",
+      "broadcast": "Paramount+"
+    },
+    {
+      "startDate": "2026-01-08T19:45Z",
+      "home": "AC Milan",
+      "away": "Genoa",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
       "competition": "",
       "broadcast": "Paramount+"
     },
