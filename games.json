@@ -1,5 +1,15 @@
 {
-  "today": [],
+  "today": [
+    {
+      "startDate": "2026-01-06T19:45Z",
+      "home": "Sassuolo",
+      "away": "Juventus",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+      "competition": "",
+      "broadcast": "Paramount+"
+    }
+  ],
   "future": [
     {
       "startDate": "2026-01-11T21:00Z",
@@ -146,15 +156,6 @@
       "broadcast": "Peacock"
     },
     {
-      "startDate": "2026-01-06T19:45Z",
-      "home": "Sassuolo",
-      "away": "Juventus",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-      "competition": "",
-      "broadcast": "Paramount+"
-    },
-    {
       "startDate": "2026-01-07T17:30Z",
       "home": "Napoli",
       "away": "Hellas Verona",
@@ -223,6 +224,24 @@
       "away": "VfB Stuttgart",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+      "competition": "",
+      "broadcast": "ESPN+"
+    },
+    {
+      "startDate": "2026-01-13T19:30Z",
+      "home": "Borussia Dortmund",
+      "away": "Werder Bremen",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+      "competition": "",
+      "broadcast": "ESPN+"
+    },
+    {
+      "startDate": "2026-01-13T19:30Z",
+      "home": "Hamburg SV",
+      "away": "Bayer Leverkusen",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
       "competition": "",
       "broadcast": "ESPN+"
     }
