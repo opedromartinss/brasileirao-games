@@ -1,22 +1,13 @@
 {
   "today": [
     {
-      "startDate": "2026-01-08T20:00Z",
-      "home": "Arsenal",
-      "away": "Liverpool",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "startDate": "2026-01-09T19:30Z",
+      "home": "Eintracht Frankfurt",
+      "away": "Borussia Dortmund",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
       "competition": "",
-      "broadcast": "NBCSN"
-    },
-    {
-      "startDate": "2026-01-08T19:45Z",
-      "home": "AC Milan",
-      "away": "Genoa",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-      "competition": "",
-      "broadcast": "Paramount+"
+      "broadcast": "ESPN2"
     }
   ],
   "future": [
@@ -202,7 +193,7 @@
     },
     {
       "startDate": "2026-01-14T22:30Z",
-      "home": "NORTH EC",
+      "home": "North EC",
       "away": "Atlético-MG",
       "homeLogo": "",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
@@ -282,22 +273,13 @@
       "broadcast": "Paramount+"
     },
     {
-      "startDate": "2026-01-09T19:30Z",
-      "home": "Eintracht Frankfurt",
-      "away": "Borussia Dortmund",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-      "competition": "",
-      "broadcast": "ESPN2"
-    },
-    {
       "startDate": "2026-01-10T14:30Z",
       "home": "St. Pauli",
       "away": "RB Leipzig",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
       "competition": "",
-      "broadcast": "ESPN+"
+      "broadcast": ""
     },
     {
       "startDate": "2026-01-10T17:30Z",
@@ -334,6 +316,15 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
       "competition": "",
       "broadcast": "ESPN+"
+    },
+    {
+      "startDate": "2026-01-16T20:00Z",
+      "home": "Paris Saint-Germain",
+      "away": "Lille",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+      "competition": "",
+      "broadcast": ""
     }
   ]
 }
