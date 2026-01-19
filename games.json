@@ -1,152 +1,6 @@
 {
   "today": [
     {
-      "startDate": "2026-01-17T21:30Z",
-      "home": "Boavista",
-      "away": "Fluminense",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/900.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-01-18T00:30Z",
-      "home": "Volta Redonda",
-      "away": "Flamengo",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4806.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-01-17T23:30Z",
-      "home": "Palmeiras",
-      "away": "Mirassol",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-01-17T22:00Z",
-      "home": "Grêmio",
-      "away": "São Luiz-RS",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7391.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-01-17T21:30Z",
-      "home": "Cruzeiro",
-      "away": "Uberlândia",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9460.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-01-17T13:00Z",
-      "home": "Real Madrid",
-      "away": "Levante",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-      "competition": "",
-      "broadcast": "ESPN Deportes"
-    },
-    {
-      "startDate": "2026-01-17T12:30Z",
-      "home": "Manchester United",
-      "away": "Manchester City",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "competition": "",
-      "broadcast": "USA Net"
-    },
-    {
-      "startDate": "2026-01-17T15:00Z",
-      "home": "Chelsea",
-      "away": "Brentford",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
-      "competition": "",
-      "broadcast": "Peacock"
-    },
-    {
-      "startDate": "2026-01-17T15:00Z",
-      "home": "Liverpool",
-      "away": "Burnley",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png",
-      "competition": "",
-      "broadcast": "USA Net"
-    },
-    {
-      "startDate": "2026-01-17T17:30Z",
-      "home": "Nottingham Forest",
-      "away": "Arsenal",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "competition": "",
-      "broadcast": "NBC"
-    },
-    {
-      "startDate": "2026-01-17T17:00Z",
-      "home": "Napoli",
-      "away": "Sassuolo",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-      "competition": "",
-      "broadcast": "Paramount+"
-    },
-    {
-      "startDate": "2026-01-17T19:45Z",
-      "home": "Cagliari",
-      "away": "Juventus",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-      "competition": "",
-      "broadcast": "Paramount+"
-    },
-    {
-      "startDate": "2026-01-17T14:30Z",
-      "home": "Borussia Dortmund",
-      "away": "St. Pauli",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
-      "competition": "",
-      "broadcast": "ESPN+"
-    },
-    {
-      "startDate": "2026-01-17T14:30Z",
-      "home": "TSG Hoffenheim",
-      "away": "Bayer Leverkusen",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-      "competition": "",
-      "broadcast": "ESPN+"
-    },
-    {
-      "startDate": "2026-01-17T17:30Z",
-      "home": "RB Leipzig",
-      "away": "Bayern Munich",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "competition": "",
-      "broadcast": "ESPN+"
-    },
-    {
-      "startDate": "2026-01-17T20:05Z",
-      "home": "Angers",
-      "away": "Marseille",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
-  "future": [
-    {
       "startDate": "2026-01-18T21:00Z",
       "home": "Vasco da Gama",
       "away": "Nova Iguaçu",
@@ -164,6 +18,98 @@
       "competition": "",
       "broadcast": ""
     },
+    {
+      "startDate": "2026-01-18T19:00Z",
+      "home": "Corinthians",
+      "away": "São Paulo",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-01-18T21:15Z",
+      "home": "Red Bull Bragantino",
+      "away": "Botafogo-SP",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10281.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-01-18T23:30Z",
+      "home": "Guarani",
+      "away": "Santos",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3448.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-01-18T21:00Z",
+      "home": "Ypiranga",
+      "away": "Internacional",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4935.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-01-18T21:00Z",
+      "home": "Atlético-MG",
+      "away": "Tombense",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17339.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-01-18T13:00Z",
+      "home": "Getafe",
+      "away": "Valencia",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+      "competition": "",
+      "broadcast": "ESPN Deportes"
+    },
+    {
+      "startDate": "2026-01-18T15:15Z",
+      "home": "Atlético Madrid",
+      "away": "Alavés",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+      "competition": "",
+      "broadcast": "ESPN Deportes"
+    },
+    {
+      "startDate": "2026-01-18T20:00Z",
+      "home": "Real Sociedad",
+      "away": "Barcelona",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+      "competition": "",
+      "broadcast": "ESPN Deportes"
+    },
+    {
+      "startDate": "2026-01-18T19:45Z",
+      "home": "AC Milan",
+      "away": "Lecce",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+      "competition": "",
+      "broadcast": "Paramount+"
+    },
+    {
+      "startDate": "2026-01-18T19:45Z",
+      "home": "Lyon",
+      "away": "Brest",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+      "competition": "",
+      "broadcast": ""
+    }
+  ],
+  "future": [
     {
       "startDate": "2026-01-21T22:00Z",
       "home": "Botafogo",
@@ -201,29 +147,20 @@
       "broadcast": ""
     },
     {
-      "startDate": "2026-01-18T19:00Z",
-      "home": "Corinthians",
-      "away": "São Paulo",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
+      "startDate": "2026-01-25T21:00Z",
+      "home": "Fluminense",
+      "away": "Flamengo",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
       "competition": "",
       "broadcast": ""
     },
     {
-      "startDate": "2026-01-18T21:15Z",
-      "home": "Red Bull Bragantino",
-      "away": "Botafogo-SP",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10281.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-01-18T23:30Z",
-      "home": "Guarani",
-      "away": "Santos",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3448.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+      "startDate": "2026-01-25T23:30Z",
+      "home": "Boavista",
+      "away": "Vasco da Gama",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/900.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
       "competition": "",
       "broadcast": ""
     },
@@ -282,11 +219,20 @@
       "broadcast": ""
     },
     {
-      "startDate": "2026-01-18T21:00Z",
-      "home": "Ypiranga",
-      "away": "Internacional",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4935.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
+      "startDate": "2026-01-25T19:00Z",
+      "home": "Santos",
+      "away": "Red Bull Bragantino",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-01-25T23:30Z",
+      "home": "AE Velo Clube",
+      "away": "Corinthians",
+      "homeLogo": "",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
       "competition": "",
       "broadcast": ""
     },
@@ -309,11 +255,11 @@
       "broadcast": ""
     },
     {
-      "startDate": "2026-01-18T21:00Z",
-      "home": "Atlético-MG",
-      "away": "Tombense",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17339.png",
+      "startDate": "2026-01-25T23:00Z",
+      "home": "Internacional",
+      "away": "Grêmio",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
       "competition": "",
       "broadcast": ""
     },
@@ -336,31 +282,13 @@
       "broadcast": ""
     },
     {
-      "startDate": "2026-01-18T13:00Z",
-      "home": "Getafe",
-      "away": "Valencia",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+      "startDate": "2026-01-25T21:00Z",
+      "home": "Atlético-MG",
+      "away": "Cruzeiro",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
       "competition": "",
-      "broadcast": "ESPN Deportes"
-    },
-    {
-      "startDate": "2026-01-18T15:15Z",
-      "home": "Atlético Madrid",
-      "away": "Alavés",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-      "competition": "",
-      "broadcast": "ESPN Deportes"
-    },
-    {
-      "startDate": "2026-01-18T20:00Z",
-      "home": "Real Sociedad",
-      "away": "Barcelona",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "competition": "",
-      "broadcast": "ESPN Deportes"
+      "broadcast": ""
     },
     {
       "startDate": "2026-01-19T20:00Z",
@@ -399,6 +327,24 @@
       "broadcast": "ESPN Deportes"
     },
     {
+      "startDate": "2026-01-25T13:00Z",
+      "home": "Atlético Madrid",
+      "away": "Mallorca",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
+      "competition": "",
+      "broadcast": "ESPN Deportes"
+    },
+    {
+      "startDate": "2026-01-25T15:15Z",
+      "home": "Barcelona",
+      "away": "Real Oviedo",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/92.png",
+      "competition": "",
+      "broadcast": "ESPN Deportes"
+    },
+    {
       "startDate": "2026-01-24T15:00Z",
       "home": "Manchester City",
       "away": "Wolverhampton Wanderers",
@@ -417,11 +363,38 @@
       "broadcast": ""
     },
     {
-      "startDate": "2026-01-18T19:45Z",
-      "home": "AC Milan",
-      "away": "Lecce",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+      "startDate": "2026-01-25T14:00Z",
+      "home": "Crystal Palace",
+      "away": "Chelsea",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-01-25T16:30Z",
+      "home": "Arsenal",
+      "away": "Manchester United",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-01-25T17:00Z",
+      "home": "Juventus",
+      "away": "Napoli",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+      "competition": "",
+      "broadcast": "Paramount+"
+    },
+    {
+      "startDate": "2026-01-25T19:45Z",
+      "home": "AS Roma",
+      "away": "AC Milan",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
       "competition": "",
       "broadcast": "Paramount+"
     },
@@ -453,15 +426,6 @@
       "broadcast": "ESPN+"
     },
     {
-      "startDate": "2026-01-18T19:45Z",
-      "home": "Lyon",
-      "away": "Brest",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
       "startDate": "2026-01-23T19:00Z",
       "home": "AJ Auxerre",
       "away": "Paris Saint-Germain",
@@ -476,6 +440,15 @@
       "away": "Lens",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-01-25T16:15Z",
+      "home": "Metz",
+      "away": "Lyon",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
       "competition": "",
       "broadcast": ""
     },
