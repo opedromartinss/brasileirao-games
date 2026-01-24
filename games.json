@@ -1,40 +1,13 @@
 {
   "today": [
     {
-      "startDate": "2026-01-23T00:30Z",
-      "home": "Nova Iguaçu",
-      "away": "Fluminense",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6087.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
+      "startDate": "2026-01-23T19:00Z",
+      "home": "AJ Auxerre",
+      "away": "Paris Saint-Germain",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
       "competition": "",
       "broadcast": ""
-    },
-    {
-      "startDate": "2026-01-22T22:30Z",
-      "home": "Santos",
-      "away": "Corinthians",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-01-22T21:30Z",
-      "home": "Cruzeiro",
-      "away": "Democrata GV",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18396.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-01-22T17:45Z",
-      "home": "Young Boys",
-      "away": "Lyon",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2722.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "competition": "",
-      "broadcast": "Paramount+"
     }
   ],
   "future": [
@@ -341,15 +314,6 @@
       "away": "RB Leipzig",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-01-23T19:00Z",
-      "home": "AJ Auxerre",
-      "away": "Paris Saint-Germain",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
       "competition": "",
       "broadcast": ""
     },
