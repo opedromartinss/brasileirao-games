@@ -1,5 +1,15 @@
 {
-  "today": [],
+  "today": [
+    {
+      "startDate": "2026-01-27T19:30Z",
+      "home": "St. Pauli",
+      "away": "RB Leipzig",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+      "competition": "",
+      "broadcast": "ESPN+"
+    }
+  ],
   "future": [
     {
       "startDate": "2026-01-28T22:00Z",
@@ -233,7 +243,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "USA Net"
     },
     {
       "startDate": "2026-01-31T17:30Z",
@@ -242,7 +252,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "USA Net"
     },
     {
       "startDate": "2026-01-31T20:00Z",
@@ -251,7 +261,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "Peacock"
     },
     {
       "startDate": "2026-02-01T14:00Z",
@@ -260,7 +270,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "NBCSN"
     },
     {
       "startDate": "2026-02-01T16:30Z",
@@ -269,7 +279,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "NBCSN"
     },
     {
       "startDate": "2026-01-31T17:00Z",
@@ -290,13 +300,13 @@
       "broadcast": "Paramount+"
     },
     {
-      "startDate": "2026-01-27T19:30Z",
-      "home": "St. Pauli",
-      "away": "RB Leipzig",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+      "startDate": "2026-02-03T19:45Z",
+      "home": "Bologna",
+      "away": "AC Milan",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
       "competition": "",
-      "broadcast": "ESPN+"
+      "broadcast": "Paramount+"
     },
     {
       "startDate": "2026-01-31T14:30Z",
