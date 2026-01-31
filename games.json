@@ -1,33 +1,5 @@
 {
-  "today": [
-    {
-      "startDate": "2026-01-29T23:00Z",
-      "home": "Mirassol",
-      "away": "Vasco da Gama",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-01-30T00:30Z",
-      "home": "Botafogo",
-      "away": "Cruzeiro",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-01-29T20:00Z",
-      "home": "Lyon",
-      "away": "PAOK Salonika",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/605.png",
-      "competition": "",
-      "broadcast": "Paramount+"
-    }
-  ],
+  "today": [],
   "future": [
     {
       "startDate": "2026-02-04T22:00Z",
