@@ -1,5 +1,114 @@
 {
-  "today": [],
+  "today": [
+    {
+      "startDate": "2026-02-08T00:00Z",
+      "home": "Flamengo",
+      "away": "Sampaio Correa RJ",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+      "awayLogo": "",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-02-07T23:30Z",
+      "home": "São Paulo",
+      "away": "Primavera SP",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
+      "awayLogo": "",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-02-07T21:30Z",
+      "home": "Grêmio",
+      "away": "Novo Hamburgo",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7388.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-02-07T21:30Z",
+      "home": "Atlético-MG",
+      "away": "Athletic",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20851.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-02-07T15:15Z",
+      "home": "Barcelona",
+      "away": "Mallorca",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
+      "competition": "",
+      "broadcast": "ESPN Deportes"
+    },
+    {
+      "startDate": "2026-02-07T12:30Z",
+      "home": "Manchester United",
+      "away": "Tottenham Hotspur",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+      "competition": "",
+      "broadcast": "USA Net"
+    },
+    {
+      "startDate": "2026-02-07T15:00Z",
+      "home": "Arsenal",
+      "away": "Sunderland",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+      "competition": "",
+      "broadcast": "Universo"
+    },
+    {
+      "startDate": "2026-02-07T15:00Z",
+      "home": "Wolverhampton Wanderers",
+      "away": "Chelsea",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+      "competition": "",
+      "broadcast": "Peacock"
+    },
+    {
+      "startDate": "2026-02-07T17:00Z",
+      "home": "Genoa",
+      "away": "Napoli",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+      "competition": "",
+      "broadcast": "Paramount+"
+    },
+    {
+      "startDate": "2026-02-07T14:30Z",
+      "home": "VfL Wolfsburg",
+      "away": "Borussia Dortmund",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+      "competition": "",
+      "broadcast": "ESPN+"
+    },
+    {
+      "startDate": "2026-02-07T17:30Z",
+      "home": "Borussia Mönchengladbach",
+      "away": "Bayer Leverkusen",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+      "competition": "",
+      "broadcast": "ESPN+"
+    },
+    {
+      "startDate": "2026-02-07T20:05Z",
+      "home": "Nantes",
+      "away": "Lyon",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+      "competition": "",
+      "broadcast": ""
+    }
+  ],
   "future": [
     {
       "startDate": "2026-02-11T00:30Z",
@@ -92,15 +201,6 @@
       "broadcast": ""
     },
     {
-      "startDate": "2026-02-08T00:00Z",
-      "home": "Flamengo",
-      "away": "Sampaio Correa RJ",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-      "awayLogo": "",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
       "startDate": "2026-02-08T21:00Z",
       "home": "Vasco da Gama",
       "away": "Botafogo",
@@ -114,15 +214,6 @@
       "home": "Fluminense",
       "away": "Maricá",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
-      "awayLogo": "",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-02-07T23:30Z",
-      "home": "São Paulo",
-      "away": "Primavera SP",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
       "awayLogo": "",
       "competition": "",
       "broadcast": ""
@@ -164,29 +255,11 @@
       "broadcast": ""
     },
     {
-      "startDate": "2026-02-07T21:30Z",
-      "home": "Grêmio",
-      "away": "Novo Hamburgo",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7388.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
       "startDate": "2026-02-08T21:00Z",
       "home": "Internacional",
       "away": "São Luiz-RS",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7391.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-02-07T21:30Z",
-      "home": "Atlético-MG",
-      "away": "Athletic",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20851.png",
       "competition": "",
       "broadcast": ""
     },
@@ -200,16 +273,25 @@
       "broadcast": ""
     },
     {
-      "startDate": "2026-02-07T15:15Z",
-      "home": "Barcelona",
-      "away": "Mallorca",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
+      "startDate": "2026-02-14T22:00Z",
+      "home": "Itabirito",
+      "away": "Atlético-MG",
+      "homeLogo": "",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
       "competition": "",
-      "broadcast": "ESPN Deportes"
+      "broadcast": ""
     },
     {
-      "startDate": "2026-02-07T17:30Z",
+      "startDate": "2026-02-14T22:00Z",
+      "home": "URT",
+      "away": "Cruzeiro",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18399.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-02-08T15:15Z",
       "home": "Sevilla",
       "away": "Girona",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
@@ -236,31 +318,22 @@
       "broadcast": "ESPN2"
     },
     {
-      "startDate": "2026-02-07T12:30Z",
-      "home": "Manchester United",
-      "away": "Tottenham Hotspur",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+      "startDate": "2026-02-14T17:30Z",
+      "home": "Sevilla",
+      "away": "Alavés",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
       "competition": "",
-      "broadcast": "USA Net"
+      "broadcast": "ESPN Deportes"
     },
     {
-      "startDate": "2026-02-07T15:00Z",
-      "home": "Arsenal",
-      "away": "Sunderland",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+      "startDate": "2026-02-14T20:00Z",
+      "home": "Real Madrid",
+      "away": "Real Sociedad",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
       "competition": "",
-      "broadcast": "Peacock"
-    },
-    {
-      "startDate": "2026-02-07T15:00Z",
-      "home": "Wolverhampton Wanderers",
-      "away": "Chelsea",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "competition": "",
-      "broadcast": "Peacock"
+      "broadcast": "ESPN Deportes"
     },
     {
       "startDate": "2026-02-08T16:30Z",
@@ -278,7 +351,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
       "competition": "",
-      "broadcast": "Peacock"
+      "broadcast": "Universo"
     },
     {
       "startDate": "2026-02-10T20:15Z",
@@ -296,7 +369,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "Peacock"
     },
     {
       "startDate": "2026-02-11T20:15Z",
@@ -305,7 +378,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "Universo"
     },
     {
       "startDate": "2026-02-12T20:00Z",
@@ -314,16 +387,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
       "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-02-07T17:00Z",
-      "home": "Genoa",
-      "away": "Napoli",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-      "competition": "",
-      "broadcast": "Paramount+"
+      "broadcast": "Universo"
     },
     {
       "startDate": "2026-02-08T19:45Z",
@@ -344,22 +408,13 @@
       "broadcast": "Paramount+"
     },
     {
-      "startDate": "2026-02-07T14:30Z",
-      "home": "VfL Wolfsburg",
-      "away": "Borussia Dortmund",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+      "startDate": "2026-02-14T19:45Z",
+      "home": "Internazionale",
+      "away": "Juventus",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
       "competition": "",
-      "broadcast": "ESPN+"
-    },
-    {
-      "startDate": "2026-02-07T17:30Z",
-      "home": "Borussia Mönchengladbach",
-      "away": "Bayer Leverkusen",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-      "competition": "",
-      "broadcast": "ESPN+"
+      "broadcast": "Paramount+"
     },
     {
       "startDate": "2026-02-08T14:30Z",
@@ -380,13 +435,13 @@
       "broadcast": "ESPN+"
     },
     {
-      "startDate": "2026-02-07T20:05Z",
-      "home": "Nantes",
-      "away": "Lyon",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+      "startDate": "2026-02-14T14:30Z",
+      "home": "Bayer Leverkusen",
+      "away": "St. Pauli",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "ESPN+"
     },
     {
       "startDate": "2026-02-08T19:45Z",
@@ -403,6 +458,15 @@
       "away": "Paris Saint-Germain",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-02-14T16:00Z",
+      "home": "Marseille",
+      "away": "Strasbourg",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
       "competition": "",
       "broadcast": ""
     }
