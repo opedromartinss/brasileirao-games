@@ -1,20 +1,11 @@
 {
   "today": [
     {
-      "startDate": "2026-02-19T22:30Z",
-      "home": "Athletico-PR",
-      "away": "Corinthians",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-02-20T00:30Z",
-      "home": "Lanús",
-      "away": "Flamengo",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+      "startDate": "2026-02-20T19:45Z",
+      "home": "Brest",
+      "away": "Marseille",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
       "competition": "",
       "broadcast": ""
     }
@@ -306,7 +297,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
       "competition": "",
-      "broadcast": "Universo"
+      "broadcast": "NBCSN"
     },
     {
       "startDate": "2026-02-22T14:00Z",
@@ -381,11 +372,11 @@
       "broadcast": "ESPN+"
     },
     {
-      "startDate": "2026-02-20T19:45Z",
-      "home": "Brest",
-      "away": "Marseille",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "startDate": "2026-02-28T01:00Z",
+      "home": "Costa Rica",
+      "away": "Brazil",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/crc.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
       "competition": "",
       "broadcast": ""
     },
