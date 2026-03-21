@@ -1,40 +1,31 @@
 {
   "today": [
     {
-      "startDate": "2026-03-19T22:00Z",
-      "home": "Grêmio",
-      "away": "Vitória",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
+      "startDate": "2026-03-20T20:00Z",
+      "home": "AFC Bournemouth",
+      "away": "Manchester United",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "USA Net"
     },
     {
-      "startDate": "2026-03-19T23:00Z",
-      "home": "Flamengo",
-      "away": "Remo",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-03-20T00:30Z",
-      "home": "Chapecoense",
-      "away": "Corinthians",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-03-19T17:45Z",
-      "home": "Lyon",
-      "away": "Celta Vigo",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+      "startDate": "2026-03-20T17:30Z",
+      "home": "Cagliari",
+      "away": "Napoli",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
       "competition": "",
       "broadcast": "Paramount+"
+    },
+    {
+      "startDate": "2026-03-20T19:30Z",
+      "home": "RB Leipzig",
+      "away": "TSG Hoffenheim",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+      "competition": "",
+      "broadcast": "ESPN+"
     }
   ],
   "future": [
@@ -165,15 +156,6 @@
       "broadcast": "ESPN Deportes"
     },
     {
-      "startDate": "2026-03-20T20:00Z",
-      "home": "AFC Bournemouth",
-      "away": "Manchester United",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "competition": "",
-      "broadcast": "USA Net"
-    },
-    {
       "startDate": "2026-03-21T12:30Z",
       "home": "Brighton & Hove Albion",
       "away": "Liverpool",
@@ -201,15 +183,6 @@
       "broadcast": "USA Net"
     },
     {
-      "startDate": "2026-03-20T17:30Z",
-      "home": "Cagliari",
-      "away": "Napoli",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-      "competition": "",
-      "broadcast": "Paramount+"
-    },
-    {
       "startDate": "2026-03-21T17:00Z",
       "home": "AC Milan",
       "away": "Torino",
@@ -226,15 +199,6 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
       "competition": "",
       "broadcast": "Paramount+"
-    },
-    {
-      "startDate": "2026-03-20T19:30Z",
-      "home": "RB Leipzig",
-      "away": "TSG Hoffenheim",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-      "competition": "",
-      "broadcast": "ESPN+"
     },
     {
       "startDate": "2026-03-21T14:30Z",
@@ -264,7 +228,43 @@
       "broadcast": ""
     },
     {
-      "startDate": "2026-03-21T20:00Z",
+      "startDate": "2026-03-27T19:45Z",
+      "home": "England",
+      "away": "Uruguay",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-03-27T19:45Z",
+      "home": "Netherlands",
+      "away": "Norway",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-03-27T19:45Z",
+      "home": "Switzerland",
+      "away": "Germany",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-03-27T20:00Z",
+      "home": "Spain",
+      "away": "Serbia",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-03-21T20:05Z",
       "home": "Nice",
       "away": "Paris Saint-Germain",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
