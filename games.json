@@ -1,13 +1,13 @@
 {
   "today": [
     {
-      "startDate": "2026-03-25T22:30Z",
-      "home": "Vitória",
-      "away": "Botafogo PB",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17317.png",
+      "startDate": "2026-03-26T20:00Z",
+      "home": "Brazil",
+      "away": "France",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
       "competition": "",
-      "broadcast": ""
+      "broadcast": "ESPN2"
     }
   ],
   "future": [
@@ -75,6 +75,42 @@
       "broadcast": ""
     },
     {
+      "startDate": "2026-04-02T22:00Z",
+      "home": "Chapecoense",
+      "away": "Atlético-MG",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-04-02T22:00Z",
+      "home": "Santos",
+      "away": "Remo",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-04-03T00:30Z",
+      "home": "Palmeiras",
+      "away": "Grêmio",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-04-03T00:30Z",
+      "home": "Red Bull Bragantino",
+      "away": "Flamengo",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
       "startDate": "2026-03-28T20:00Z",
       "home": "CRB",
       "away": "Vitória",
@@ -82,15 +118,6 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
       "competition": "",
       "broadcast": ""
-    },
-    {
-      "startDate": "2026-03-26T20:00Z",
-      "home": "Brazil",
-      "away": "France",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-      "competition": "",
-      "broadcast": "ESPN2"
     },
     {
       "startDate": "2026-03-27T19:45Z",
