@@ -1,13 +1,49 @@
 {
   "today": [
     {
-      "startDate": "2026-03-26T20:00Z",
-      "home": "Brazil",
-      "away": "France",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "startDate": "2026-03-27T19:45Z",
+      "home": "England",
+      "away": "Uruguay",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
       "competition": "",
-      "broadcast": "ESPN2"
+      "broadcast": "FS1"
+    },
+    {
+      "startDate": "2026-03-27T19:45Z",
+      "home": "Netherlands",
+      "away": "Norway",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-03-27T19:45Z",
+      "home": "Switzerland",
+      "away": "Germany",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-03-27T20:00Z",
+      "home": "Spain",
+      "away": "Serbia",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-03-27T23:15Z",
+      "home": "Argentina",
+      "away": "Mauritania",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/mtn.png",
+      "competition": "",
+      "broadcast": ""
     }
   ],
   "future": [
@@ -116,51 +152,6 @@
       "away": "Vitória",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9970.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-03-27T19:45Z",
-      "home": "England",
-      "away": "Uruguay",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
-      "competition": "",
-      "broadcast": "FS1"
-    },
-    {
-      "startDate": "2026-03-27T19:45Z",
-      "home": "Netherlands",
-      "away": "Norway",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-03-27T19:45Z",
-      "home": "Switzerland",
-      "away": "Germany",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-03-27T20:00Z",
-      "home": "Spain",
-      "away": "Serbia",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-03-27T23:15Z",
-      "home": "Argentina",
-      "away": "Mauritania",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/mtn.png",
       "competition": "",
       "broadcast": ""
     },
@@ -280,6 +271,15 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
       "competition": "",
       "broadcast": "ESPN Deportes"
+    },
+    {
+      "startDate": "2026-04-03T18:45Z",
+      "home": "Paris Saint-Germain",
+      "away": "Toulouse",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+      "competition": "",
+      "broadcast": ""
     }
   ]
 }
