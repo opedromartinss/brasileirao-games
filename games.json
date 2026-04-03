@@ -1,62 +1,6 @@
 {
   "today": [
     {
-      "startDate": "2026-04-01T22:30Z",
-      "home": "Botafogo",
-      "away": "Mirassol",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-04-01T22:30Z",
-      "home": "Internacional",
-      "away": "São Paulo",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-04-01T23:00Z",
-      "home": "Bahia",
-      "away": "Athletico-PR",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-04-01T23:00Z",
-      "home": "Cruzeiro",
-      "away": "Vitória",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-04-01T23:30Z",
-      "home": "Coritiba",
-      "away": "Vasco da Gama",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-04-02T00:30Z",
-      "home": "Fluminense",
-      "away": "Corinthians",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
-  "future": [
-    {
       "startDate": "2026-04-02T22:00Z",
       "home": "Chapecoense",
       "away": "Atlético-MG",
@@ -91,7 +35,9 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
       "competition": "",
       "broadcast": ""
-    },
+    }
+  ],
+  "future": [
     {
       "startDate": "2026-04-04T21:30Z",
       "home": "São Paulo",
@@ -246,6 +192,24 @@
       "broadcast": ""
     },
     {
+      "startDate": "2026-04-10T00:00Z",
+      "home": "Platense",
+      "away": "Corinthians",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7764.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-04-10T02:00Z",
+      "home": "Independiente Santa Fe",
+      "away": "Peñarol",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5488.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2683.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
       "startDate": "2026-04-07T22:00Z",
       "home": "Barracas Central",
       "away": "Vasco da Gama",
@@ -296,6 +260,24 @@
       "away": "Atlético-MG",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18995.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-04-09T22:00Z",
+      "home": "Botafogo",
+      "away": "Caracas FC",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4811.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-04-10T00:30Z",
+      "home": "Carabobo",
+      "away": "Red Bull Bragantino",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6037.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
       "competition": "",
       "broadcast": ""
     },
