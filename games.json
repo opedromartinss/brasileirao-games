@@ -1,42 +1,5 @@
 {
-  "today": [
-    {
-      "startDate": "2026-04-30T22:00Z",
-      "home": "Bolívar",
-      "away": "Fluminense",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2681.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-01T00:00Z",
-      "home": "Corinthians",
-      "away": "Peñarol",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2683.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-04-30T22:00Z",
-      "home": "Vasco da Gama",
-      "away": "Club Olimpia",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2675.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-01T00:30Z",
-      "home": "Red Bull Bragantino",
-      "away": "River Plate",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
+  "today": [],
   "future": [
     {
       "startDate": "2026-05-02T19:00Z",
@@ -404,6 +367,15 @@
       "away": "Borussia Dortmund",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+      "competition": "",
+      "broadcast": "ESPN+"
+    },
+    {
+      "startDate": "2026-05-08T18:30Z",
+      "home": "Borussia Dortmund",
+      "away": "Eintracht Frankfurt",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
       "competition": "",
       "broadcast": "ESPN+"
     },
