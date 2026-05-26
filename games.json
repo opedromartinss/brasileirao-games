@@ -1,11 +1,56 @@
 {
   "today": [
     {
-      "startDate": "2026-05-25T23:00Z",
-      "home": "Coritiba",
-      "away": "Bahia",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
+      "startDate": "2026-05-26T22:00Z",
+      "home": "Lanús",
+      "away": "Mirassol",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-05-27T00:30Z",
+      "home": "Flamengo",
+      "away": "Cusco FC",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11995.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-05-27T00:30Z",
+      "home": "Nacional",
+      "away": "Coquimbo Unido",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2684.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8186.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-05-26T22:00Z",
+      "home": "Grêmio",
+      "away": "Montevideo City Torque",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/19002.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-05-26T22:00Z",
+      "home": "São Paulo",
+      "away": "Boston River",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9999.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-05-27T00:30Z",
+      "home": "Santos",
+      "away": "Deportivo Cuenca",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4812.png",
       "competition": "",
       "broadcast": ""
     }
@@ -102,33 +147,6 @@
       "broadcast": ""
     },
     {
-      "startDate": "2026-05-26T22:00Z",
-      "home": "Lanús",
-      "away": "Mirassol",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-27T00:30Z",
-      "home": "Flamengo",
-      "away": "Cusco FC",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11995.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-27T00:30Z",
-      "home": "Nacional",
-      "away": "Coquimbo Unido",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2684.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8186.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
       "startDate": "2026-05-28T00:30Z",
       "home": "Corinthians",
       "away": "Platense",
@@ -179,33 +197,6 @@
       "away": "Barcelona SC",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2686.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-26T22:00Z",
-      "home": "Grêmio",
-      "away": "Montevideo City Torque",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/19002.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-26T22:00Z",
-      "home": "São Paulo",
-      "away": "Boston River",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9999.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-27T00:30Z",
-      "home": "Santos",
-      "away": "Deportivo Cuenca",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4812.png",
       "competition": "",
       "broadcast": ""
     },
