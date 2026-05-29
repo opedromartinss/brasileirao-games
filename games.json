@@ -1,33 +1,5 @@
 {
-  "today": [
-    {
-      "startDate": "2026-05-28T22:00Z",
-      "home": "Palmeiras",
-      "away": "Atlético Junior",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4815.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-29T00:30Z",
-      "home": "Boca Juniors",
-      "away": "Universidad Católica",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/885.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-29T00:30Z",
-      "home": "Cruzeiro",
-      "away": "Barcelona SC",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2686.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
+  "today": [],
   "future": [
     {
       "startDate": "2026-05-30T19:00Z",
