@@ -1,62 +1,6 @@
 {
   "today": [
     {
-      "startDate": "2026-05-30T19:00Z",
-      "home": "Athletico-PR",
-      "away": "Mirassol",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-30T19:00Z",
-      "home": "Flamengo",
-      "away": "Coritiba",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-30T20:30Z",
-      "home": "Bahia",
-      "away": "Botafogo",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-30T20:30Z",
-      "home": "Grêmio",
-      "away": "Corinthians",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-30T23:00Z",
-      "home": "Santos",
-      "away": "Vitória",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-30T16:00Z",
-      "home": "Paris Saint-Germain",
-      "away": "Arsenal",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "competition": "",
-      "broadcast": "CBS"
-    }
-  ],
-  "future": [
-    {
       "startDate": "2026-05-31T14:00Z",
       "home": "Red Bull Bragantino",
       "away": "Internacional",
@@ -102,24 +46,6 @@
       "broadcast": ""
     },
     {
-      "startDate": "2026-06-03T00:00Z",
-      "home": "Fortaleza",
-      "away": "Vitória",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-06-06T19:00Z",
-      "home": "Vitória",
-      "away": "Fortaleza",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
       "startDate": "2026-05-31T18:45Z",
       "home": "Germany",
       "away": "Finland",
@@ -134,6 +60,26 @@
       "away": "Panama",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png",
+      "competition": "",
+      "broadcast": ""
+    }
+  ],
+  "future": [
+    {
+      "startDate": "2026-06-03T00:00Z",
+      "home": "Fortaleza",
+      "away": "Vitória",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-06-06T19:00Z",
+      "home": "Vitória",
+      "away": "Fortaleza",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
       "competition": "",
       "broadcast": ""
     },
@@ -217,6 +163,15 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/hon.png",
       "competition": "",
       "broadcast": "ESPN Deportes"
+    },
+    {
+      "startDate": "2026-06-07T19:00Z",
+      "home": "Greece",
+      "away": "Italy",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/gre.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+      "competition": "",
+      "broadcast": ""
     },
     {
       "startDate": "2026-06-06T21:30Z",
