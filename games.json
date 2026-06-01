@@ -1,69 +1,5 @@
 {
-  "today": [
-    {
-      "startDate": "2026-05-31T14:00Z",
-      "home": "Red Bull Bragantino",
-      "away": "Internacional",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-31T19:00Z",
-      "home": "Palmeiras",
-      "away": "Chapecoense",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-31T19:00Z",
-      "home": "Vasco da Gama",
-      "away": "Atlético-MG",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-31T23:30Z",
-      "home": "Cruzeiro",
-      "away": "Fluminense",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-31T23:30Z",
-      "home": "Remo",
-      "away": "São Paulo",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-31T18:45Z",
-      "home": "Germany",
-      "away": "Finland",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-05-31T21:30Z",
-      "home": "Brazil",
-      "away": "Panama",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
+  "today": [],
   "future": [
     {
       "startDate": "2026-06-03T00:00Z",
@@ -135,7 +71,7 @@
       "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
       "competition": "",
-      "broadcast": "TNT"
+      "broadcast": "TBS"
     },
     {
       "startDate": "2026-06-06T20:00Z",
@@ -170,6 +106,33 @@
       "away": "Italy",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/gre.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-06-08T18:45Z",
+      "home": "Netherlands",
+      "away": "Uzbekistan",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-06-08T19:10Z",
+      "home": "France",
+      "away": "Northern Ireland",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-06-09T02:00Z",
+      "home": "Peru",
+      "away": "Spain",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/per.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
       "competition": "",
       "broadcast": ""
     },
