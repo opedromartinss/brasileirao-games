@@ -1,6 +1,5 @@
 {
-  "today": [],
-  "future": [
+  "today": [
     {
       "startDate": "2026-06-03T00:00Z",
       "home": "Fortaleza",
@@ -9,7 +8,9 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
       "competition": "",
       "broadcast": ""
-    },
+    }
+  ],
+  "future": [
     {
       "startDate": "2026-06-06T19:00Z",
       "home": "Vitória",
@@ -137,6 +138,15 @@
       "broadcast": ""
     },
     {
+      "startDate": "2026-06-10T01:00Z",
+      "home": "Argentina",
+      "away": "Iceland",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png",
+      "competition": "",
+      "broadcast": "ESPN"
+    },
+    {
       "startDate": "2026-06-06T21:30Z",
       "home": "Brazil",
       "away": "United States",
@@ -144,6 +154,15 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
       "competition": "",
       "broadcast": "TBS"
+    },
+    {
+      "startDate": "2026-06-10T00:30Z",
+      "home": "Brazil",
+      "away": "United States",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+      "competition": "",
+      "broadcast": "TNT"
     }
   ]
 }
