@@ -1,26 +1,6 @@
 {
   "today": [
     {
-      "startDate": "2026-06-03T00:00Z",
-      "home": "Fortaleza",
-      "away": "Vitória",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
-  "future": [
-    {
-      "startDate": "2026-06-06T19:00Z",
-      "home": "Vitória",
-      "away": "Fortaleza",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
       "startDate": "2026-06-03T18:45Z",
       "home": "Luxembourg",
       "away": "Italy",
@@ -35,6 +15,17 @@
       "away": "Algeria",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/alg.png",
+      "competition": "",
+      "broadcast": ""
+    }
+  ],
+  "future": [
+    {
+      "startDate": "2026-06-06T19:00Z",
+      "home": "Vitória",
+      "away": "Fortaleza",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
       "competition": "",
       "broadcast": ""
     },
@@ -145,6 +136,24 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png",
       "competition": "",
       "broadcast": "ESPN"
+    },
+    {
+      "startDate": "2026-06-10T19:45Z",
+      "home": "Portugal",
+      "away": "Nigeria",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/nga.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-06-10T20:00Z",
+      "home": "England",
+      "away": "Costa Rica",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/crc.png",
+      "competition": "",
+      "broadcast": ""
     },
     {
       "startDate": "2026-06-06T21:30Z",
