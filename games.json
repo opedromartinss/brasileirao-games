@@ -1,35 +1,6 @@
 {
   "today": [
     {
-      "startDate": "2026-06-03T18:45Z",
-      "home": "Luxembourg",
-      "away": "Italy",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/lux.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-06-03T18:45Z",
-      "home": "Netherlands",
-      "away": "Algeria",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/alg.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
-  "future": [
-    {
-      "startDate": "2026-06-06T19:00Z",
-      "home": "Vitória",
-      "away": "Fortaleza",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
       "startDate": "2026-06-04T19:00Z",
       "home": "Spain",
       "away": "Iraq",
@@ -44,6 +15,17 @@
       "away": "Ivory Coast",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
+      "competition": "",
+      "broadcast": ""
+    }
+  ],
+  "future": [
+    {
+      "startDate": "2026-06-06T19:00Z",
+      "home": "Vitória",
+      "away": "Fortaleza",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
       "competition": "",
       "broadcast": ""
     },
