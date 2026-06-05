@@ -1,24 +1,5 @@
 {
-  "today": [
-    {
-      "startDate": "2026-06-04T19:00Z",
-      "home": "Spain",
-      "away": "Iraq",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/irq.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-06-04T19:10Z",
-      "home": "France",
-      "away": "Ivory Coast",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
+  "today": [],
   "future": [
     {
       "startDate": "2026-06-06T19:00Z",
