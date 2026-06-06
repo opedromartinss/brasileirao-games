@@ -1,6 +1,5 @@
 {
-  "today": [],
-  "future": [
+  "today": [
     {
       "startDate": "2026-06-06T19:00Z",
       "home": "Vitória",
@@ -55,6 +54,17 @@
       "competition": "",
       "broadcast": "ESPN Deportes"
     },
+    {
+      "startDate": "2026-06-06T21:30Z",
+      "home": "Brazil",
+      "away": "United States",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+      "competition": "",
+      "broadcast": "TBS"
+    }
+  ],
+  "future": [
     {
       "startDate": "2026-06-07T19:00Z",
       "home": "Greece",
@@ -117,15 +127,6 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/crc.png",
       "competition": "",
       "broadcast": ""
-    },
-    {
-      "startDate": "2026-06-06T21:30Z",
-      "home": "Brazil",
-      "away": "United States",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-      "competition": "",
-      "broadcast": "TBS"
     },
     {
       "startDate": "2026-06-10T00:30Z",
