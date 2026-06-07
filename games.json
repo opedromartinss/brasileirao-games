@@ -1,71 +1,6 @@
 {
   "today": [
     {
-      "startDate": "2026-06-06T19:00Z",
-      "home": "Vitória",
-      "away": "Fortaleza",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-06-06T17:45Z",
-      "home": "Portugal",
-      "away": "Chile",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-06-06T18:30Z",
-      "home": "United States",
-      "away": "Germany",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
-      "competition": "",
-      "broadcast": "TBS"
-    },
-    {
-      "startDate": "2026-06-06T20:00Z",
-      "home": "England",
-      "away": "New Zealand",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-06-06T22:00Z",
-      "home": "Brazil",
-      "away": "Egypt",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png",
-      "competition": "",
-      "broadcast": "ESPN Deportes"
-    },
-    {
-      "startDate": "2026-06-07T00:00Z",
-      "home": "Argentina",
-      "away": "Honduras",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/hon.png",
-      "competition": "",
-      "broadcast": "ESPN Deportes"
-    },
-    {
-      "startDate": "2026-06-06T21:30Z",
-      "home": "Brazil",
-      "away": "United States",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-      "competition": "",
-      "broadcast": "TBS"
-    }
-  ],
-  "future": [
-    {
       "startDate": "2026-06-07T19:00Z",
       "home": "Greece",
       "away": "Italy",
@@ -73,7 +8,9 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
       "competition": "",
       "broadcast": ""
-    },
+    }
+  ],
+  "future": [
     {
       "startDate": "2026-06-08T18:45Z",
       "home": "Netherlands",
