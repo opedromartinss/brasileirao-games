@@ -1,17 +1,6 @@
 {
   "today": [
     {
-      "startDate": "2026-06-07T19:00Z",
-      "home": "Greece",
-      "away": "Italy",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/gre.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
-  "future": [
-    {
       "startDate": "2026-06-08T18:45Z",
       "home": "Netherlands",
       "away": "Uzbekistan",
@@ -37,7 +26,9 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
       "competition": "",
       "broadcast": ""
-    },
+    }
+  ],
+  "future": [
     {
       "startDate": "2026-06-10T01:00Z",
       "home": "Argentina",
