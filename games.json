@@ -1,35 +1,6 @@
 {
   "today": [
     {
-      "startDate": "2026-06-08T18:45Z",
-      "home": "Netherlands",
-      "away": "Uzbekistan",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-06-08T19:10Z",
-      "home": "France",
-      "away": "Northern Ireland",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-06-09T02:00Z",
-      "home": "Peru",
-      "away": "Spain",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/per.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
-  "future": [
-    {
       "startDate": "2026-06-10T01:00Z",
       "home": "Argentina",
       "away": "Iceland",
@@ -38,6 +9,17 @@
       "competition": "",
       "broadcast": "ESPN"
     },
+    {
+      "startDate": "2026-06-10T00:30Z",
+      "home": "Brazil",
+      "away": "United States",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+      "competition": "",
+      "broadcast": "TNT"
+    }
+  ],
+  "future": [
     {
       "startDate": "2026-06-10T19:45Z",
       "home": "Portugal",
@@ -55,15 +37,6 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/crc.png",
       "competition": "",
       "broadcast": ""
-    },
-    {
-      "startDate": "2026-06-10T00:30Z",
-      "home": "Brazil",
-      "away": "United States",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-      "competition": "",
-      "broadcast": "TNT"
     }
   ]
 }
