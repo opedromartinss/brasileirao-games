@@ -1,23 +1,4 @@
 {
-  "today": [
-    {
-      "startDate": "2026-06-10T19:45Z",
-      "home": "Portugal",
-      "away": "Nigeria",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/nga.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-06-10T20:00Z",
-      "home": "England",
-      "away": "Costa Rica",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/crc.png",
-      "competition": "",
-      "broadcast": ""
-    }
-  ],
+  "today": [],
   "future": []
 }
