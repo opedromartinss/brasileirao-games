@@ -1,6 +1,5 @@
 {
-  "today": [],
-  "future": [
+  "today": [
     {
       "startDate": "2026-07-16T22:30Z",
       "home": "Botafogo",
@@ -18,7 +17,9 @@
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
       "competition": "",
       "broadcast": ""
-    },
+    }
+  ],
+  "future": [
     {
       "startDate": "2026-07-17T22:30Z",
       "home": "Bahia",
@@ -92,6 +93,24 @@
       "broadcast": ""
     },
     {
+      "startDate": "2026-07-23T22:30Z",
+      "home": "Botafogo",
+      "away": "Vitória",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-07-23T22:30Z",
+      "home": "Corinthians",
+      "away": "Remo",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
       "startDate": "2026-07-21T22:00Z",
       "home": "Nacional",
       "away": "Tigre",
@@ -124,6 +143,24 @@
       "away": "Red Bull Bragantino",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2673.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-07-23T22:00Z",
+      "home": "Bolívar",
+      "away": "Grêmio",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2681.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-07-24T00:30Z",
+      "home": "Boca Juniors",
+      "away": "O'Higgins",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6072.png",
       "competition": "",
       "broadcast": ""
     }
