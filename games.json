@@ -1,6 +1,5 @@
 {
-  "today": [],
-  "future": [
+  "today": [
     {
       "startDate": "2026-07-21T22:30Z",
       "home": "Atlético-MG",
@@ -10,6 +9,26 @@
       "competition": "",
       "broadcast": ""
     },
+    {
+      "startDate": "2026-07-21T22:00Z",
+      "home": "Nacional",
+      "away": "Tigre",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2684.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7767.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-07-22T00:30Z",
+      "home": "UCV FC",
+      "away": "Santos",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10094.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+      "competition": "",
+      "broadcast": ""
+    }
+  ],
+  "future": [
     {
       "startDate": "2026-07-22T22:30Z",
       "home": "Coritiba",
@@ -155,24 +174,6 @@
       "broadcast": ""
     },
     {
-      "startDate": "2026-07-21T22:00Z",
-      "home": "Nacional",
-      "away": "Tigre",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2684.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7767.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
-      "startDate": "2026-07-22T00:30Z",
-      "home": "UCV FC",
-      "away": "Santos",
-      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10094.png",
-      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-      "competition": "",
-      "broadcast": ""
-    },
-    {
       "startDate": "2026-07-22T22:00Z",
       "home": "Independiente Medellín",
       "away": "Vasco da Gama",
@@ -205,6 +206,24 @@
       "away": "O'Higgins",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6072.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-07-28T22:00Z",
+      "home": "Tigre",
+      "away": "Nacional",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7767.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2684.png",
+      "competition": "",
+      "broadcast": ""
+    },
+    {
+      "startDate": "2026-07-29T00:30Z",
+      "home": "Santos",
+      "away": "UCV FC",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10094.png",
       "competition": "",
       "broadcast": ""
     }
